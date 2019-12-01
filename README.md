@@ -1,2 +1,2 @@
 # twitter-replica
-Express.js, mysql, hbs
+Express.js, mysql, hbs, TypeORM
